@@ -24,7 +24,6 @@ console.log(Number.prototype === Number)
 console.log(Array.prototype === Object.prototype)
 console.log(typeof(AFac))
 console.log(typeof(AFac))
-console.log(typeof(AFac))
-console.log(typeof(AFac))
+console.log(typeof(aaa))
 
 // console.log(b.a, b.b, b.c);
