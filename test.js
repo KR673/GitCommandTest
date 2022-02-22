@@ -22,7 +22,7 @@ console.log(String.prototype)
 console.log(Number.prototype)
 console.log(Number.prototype === Number)
 console.log(Array.prototype === Object.prototype)
-console.log(typeof(AFac))
+console.log(typeof(aFac))
 console.log(typeof(AFac))
 console.log(typeof(aaa))
 
